@@ -2,7 +2,7 @@
 LLM Driven ChatBot to assist with Dinosaur Transport Safety Operations
 
 ## Project Overview
-This project, **DinoTransport Copilot**, is developed as part of a project for the graduate level course**DSO 599 at USC Marshall School of Business** by Xiaoyi Guan, Jianan Ding, Jessica Bratahani. The application is a **Streamlit-based chatbot** that integrates **LangChain** and various AI tools to assist users with dinosaur transport safety-related queries.
+This project, **DinoTransport Copilot**, is developed as part of a project for the graduate level course **DSO 599 at USC Marshall School of Business** by Xiaoyi Guan, Jianan Ding, Jessica Bratahani. The application is a **Streamlit-based chatbot** that integrates **LangChain** and various AI tools to assist users with dinosaur transport safety-related queries.
 
 ## Features
 - **PDF Document Search**: Utilizes **LangChain**'s `PyPDFDirectoryLoader` to load and search dinosaur-related PDFs.
